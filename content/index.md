@@ -1,6 +1,6 @@
 ---
 title: "Categorías"
-navigation: false
+navigation: true
 ---
 # Todas las categorías
 
