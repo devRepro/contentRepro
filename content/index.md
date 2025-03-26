@@ -1,7 +1,11 @@
 ---
-title: "Categorías"
-navigation: true
+title: "Inicio"
+nav: "Inicio"         # Texto a mostrar en el menú
+navigation: true      # Se incluye en la navegación
+description: "Bienvenido a nuestro sitio"
+slug: "home"
 ---
-# Todas las categorías
 
-Bienvenido a nuestra sección de categorías. Aquí encontrarás todos los productos organizados por familias.
+# Bienvenido a Nuestro Sitio
+
+Descubre nuestras categorías, productos y lo último del blog.
